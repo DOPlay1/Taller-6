@@ -1,0 +1,30 @@
+body {
+  background-color: #3d5a80;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+form {
+  background-color: #98c1d9;
+  padding: 2%;
+  border-radius: 5%;
+  margin: 0 auto;
+  width: 30%;
+}
+
+button {
+  color:white;
+  background-color: #75879e;
+  transition: 0.4s;
+}
+
+button:hover {
+  background: #65B1F6;
+  box-shadow: 0 0 15px #ffffff,
+              0 0 40px #6f00ee,
+              0 0 80px #5ddcfc,
+              0 0 100px #46a0f5;
+}
